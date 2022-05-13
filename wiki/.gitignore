@@ -1,0 +1,8 @@
+# VSCode
+.DS_Store
+
+# Django
+__pycache__/
+db.sqlite3
+*.log
+venv
